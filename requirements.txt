@@ -1,5 +1,7 @@
 streamlit==1.19.0
 google-api-python-client==2.93.0
 google-auth==2.22.0
-google-auth-oauthlib==0.4.6
 google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+altair==5.4.1
+protobuf==3.20.3
